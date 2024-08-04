@@ -1,0 +1,378 @@
+{
+  "Player_Information": {
+    "Internal_EA_ID": "XXXXXX",
+    "Account_Email": "rytmus31@protonmail.com",
+    "Email_Verification_Status": "VERIFIED",
+    "Date_of_Birth": "1990-08-15",
+    "Country": "SK",
+    "Language": "en",
+    "Locale": "US",
+    "Status": "ACTIVE",
+    "Terms_of_Service_Version": "1.0",
+    "Date_Created": "2024-04-10T17:23Z",
+    "Date_Modified": "2024-07-13T03:46Z",
+    "Registration_Source": "307690",
+    "Show_Email_on_Origin": "NO_ONE",
+    "Email_Discoverable_on_Origin": "NO_ONE",
+    "Second_Factor_Authentication_Enabled": "true"
+  },
+  "Entitlements": [
+    {
+      "Entitlement_Tag": "ONLINE_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-05-14T21:18Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-05-14T21:18Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_AXE_BATTLEPACK_BRONZE",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_AXE_ID1_BATTLEPACK_GOLD",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_AXE_ID1_BATTLEPACK_SILVER",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_AXE_ID1_DOGTAG_3_TAGS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_SLIM_JIM_BATTLEPACK_SILVER",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "PROMO_SLIM_JIM_BATTLEPACK_GOLD",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_KIT_ASSAULT",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_KIT_RECON",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_KIT_SUPPORT",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_VEHICLE_ALL",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK0_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK1_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK2_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK3_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK4_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK5_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_ASSAULT_RIFLES",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_CARBINES",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_SNIPER_RIFLES",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_LMG",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_SHOTGUNS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_DMR",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_HANDGUNS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "SHORTCUT_WEAPON_GRENADE",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-20T05:29Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-20T05:29Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK4_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK2_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "STANDARD_BUNDLE",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "REVOLUTION_BUNDLE",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "PREMIUM_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "PACK_HELLFIGHTER_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK3_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "XPACK1_ACCESS",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "EDITION_DELUXE",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "true",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    },
+    {
+      "Entitlement_Tag": "BF4:720:ADDSVETRANK",
+      "Entitlement_Type": "DEFAULT",
+      "Entitlement_Received_Date": "2024-04-16T17:37Z",
+      "Status": "ACTIVE",
+      "Use_Count": "0",
+      "Consumable": "false",
+      "Last_Modified_Date": "2024-04-16T17:37Z"
+    }
+  ],
+  "Personas": [
+    {
+      "Internal_ID": "XXXXXX",
+      "Display_Name": "Tancos1508",
+      "Non-Unique_Name": "tancos1508",
+      "Namespace": "cem_ea_id",
+      "Status": "ACTIVE",
+      "Viewable_By": "EVERYONE",
+      "Date_Created": "2024-04-10T17:23Z"
+    },
+    {
+      "Internal_ID": "XXXXXX",
+      "Display_Name": "Bufetak661",
+      "Non-Unique_Name": "bufetak661",
+      "Namespace": "xbox",
+      "Status": "ACTIVE",
+      "Viewable_By": "EVERYONE",
+      "Date_Created": "2024-04-10T17:23Z"
+    }
+  ],
+  "Privacy_Settings": {
+    "Facebook_Discoverable": "NO_ONE",
+    "XBOX_Tag_Discoverable": "EVERYONE",
+    "PSN_ID_Discoverable": "EVERYONE",
+    "Show_Real_Name": "NO_ONE",
+    "Date_Created": "2024-04-10T17:23Z",
+    "Date_Modified": "2024-04-10T17:23Z",
+    "Created_By": "Nexus",
+    "Modified_By": "Nexus",
+    "Source": "eadm"
+  },
+  "Marketing_Preference": {
+    "Internal_ID": "XXXXXX",
+    "Status": "ACTIVE",
+    "Promotional_Email_Opt-In": "true",
+    "Promotional_Email_Opt-In_Date": "2024-04-10T17:23Z",
+    "Promotional_Email_Frequency": "ANYTIME",
+    "Date_Modified": "2024-07-13T03:57Z",
+    "Modified_By": "GOP-Lockbox",
+    "Date_Created": "2024-04-10T17:23Z",
+    "Created_By": "Nexus"
+  }
+}
